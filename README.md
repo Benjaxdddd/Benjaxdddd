@@ -5,7 +5,7 @@
 <h3 align="center"><img width="150" height="150" margin-left="400" src="https://media4.giphy.com/media/107QsHzZW54hJC/giphy.gif?cid=ecf05e47wpdblr7txzbd41fd3g3ph5i1aoiae4cchqxyjd9o&rid=giphy.gif&ct=g" alt="Funny image"></h3>
 
 
-- 🔭 I’m currently working on **Sello abeja**
+
 
 - 🌱 I’m currently learning **React with Spline integrations for frontend,multilayer perceptrons and cnn for time series prediction, Next.js, Chakra UI, Framer Motion, and Three.js**
 
