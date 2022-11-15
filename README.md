@@ -2,7 +2,7 @@
 <h3 align="center">A passionate freelancer developer from Chile</h3>
 
 
-<h3 align="center"><img width="150" height="150" margin-left="400" src="https://media4.giphy.com/media/oyUrSRL4HxBE2Qk87W/giphy.gif?cid=ecf05e47rtl5fsf8t173dfno45bblzs5vc1bgea8ygcd7671&rid=giphy.gif&ct=g" alt="Funny image"></h3>
+<h3 align="center"><img width="150" height="150" margin-left="400" src="https://media4.giphy.com/media/107QsHzZW54hJC/giphy.gif?cid=ecf05e47wpdblr7txzbd41fd3g3ph5i1aoiae4cchqxyjd9o&rid=giphy.gif&ct=g" alt="Funny image"></h3>
 
 
 - 🔭 I’m currently working on **Sello abeja**
