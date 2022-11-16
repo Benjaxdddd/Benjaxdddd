@@ -15,8 +15,6 @@
 
 - 💬 Ask me about **Django, html, css, javascript, Python and tensorflow for AI models**
 
-- 📫 How to reach me **benjaminflores10d@gmail.com**
-
 - ⚡ Fun fact **My favorite game is The Legend of Zelda: Link's Awakening**
 
 <h3 align="left">Connect with me:</h3>
