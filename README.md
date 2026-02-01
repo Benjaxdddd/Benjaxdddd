@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React with Spline integrations for frontend,multilayer perceptrons and cnn for time series prediction, Next.js, Chakra UI, Framer Motion, and Three.js**
 
-- 👯 I’m looking to collaborate on **Ai proyects**
+- 👯 I’m looking to collaborate on **AI proyects**
 
 - 🤝 I’m looking for help with **Learn how to sleep**
 
