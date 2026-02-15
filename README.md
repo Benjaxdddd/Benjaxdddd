@@ -5,7 +5,7 @@
 <h3 align="center"><img width="150" height="150" margin-left="400" src="https://i.pinimg.com/736x/81/6e/21/816e21a7338a432a41b9f5a2b4c0e85b.jpg" alt="Funny image"></h3>
 
 
-<h3 align="center"><🎧 Escuchando ahora: [Last Train To London - Electric Light Orchestra]([https://open.spotify.com/intl-es/track/6xE6ZWzK1YDDSYzqOCoQlz?si=eaa7ecdfc72c4e9c]))</h3>
+<h3 align="center">Escuchando ahora: [Last Train To London - Electric Light Orchestra]([https://open.spotify.com/intl-es/track/6xE6ZWzK1YDDSYzqOCoQlz?si=eaa7ecdfc72c4e9c]))</h3>
 
 
 
