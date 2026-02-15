@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React with Spline integrations, Multilayer Perceptrons, CNNs for time series, Next.js, Chakra UI, Framer Motion, Three.js, and Multi-Agent Orchestration (MoE)**
 
-- 👯 I’m looking to collaborate on **AI projects & Decentralized LLM Ecosystems (like Mycelium_OS)**
+- 👯 I’m looking to collaborate on **AI projects & Decentralized LLM Ecosystems**
 
 - 🤝 I’m looking for help with **Learn how to sleep**
 
