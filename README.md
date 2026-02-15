@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Benjamin</h1>
-<h3 align="center">AI Engineer / AI Architect | The monster resource</h3>
+<h3 align="center">AI Engineer - AI Architect | The monster resource</h3>
 
 
 <h3 align="center"><img width="150" height="150" margin-left="400" src="https://i.pinimg.com/736x/81/6e/21/816e21a7338a432a41b9f5a2b4c0e85b.jpg" alt="Funny image"></h3>
