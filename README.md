@@ -17,7 +17,7 @@
 
 <h3 align="center">
   🎧 Escuchando ahora: <br>
-  <a href="[https://open.spotify.com/track/2QfiRTz5Yc8b6A185bA37e](https://open.spotify.com/playlist/5ppZ7mQQHJit8E2mWtRzyB?si=5732634d0f234984)" target="_blank">
+  <a href="https://open.spotify.com/playlist/5ppZ7mQQHJit8E2mWtRzyB?si=5732634d0f234984" target="_blank">
     Last Train To London - Electric Light Orchestra
   </a>
 </h3>
